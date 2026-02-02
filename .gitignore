@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# virtual environment
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
+
+# vectorstore (do not upload local db)
+vectorstore/
+
+# IDE
+.idea/
